@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+uvicorn
+python-jwt
+python-multipart
+python-jose
